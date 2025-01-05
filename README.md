@@ -22,8 +22,8 @@ The **client's screen** is streamed to the server in real-time, and the server h
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/abdulrehmangulfaraz/Python-Remote-Desktop-Application.git
-   cd Python-Remote-Desktop-Application
+   git clone https://github.com/abdulrehmangulfaraz/Remote-Desktop.git
+   cd Remote-Desktop
    ```
 
 2. **Install dependencies**:
