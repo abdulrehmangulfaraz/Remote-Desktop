@@ -63,6 +63,12 @@ The **client's screen** is streamed to the server in real-time, and the server h
 Hi, I'm Abdulrehman Gulfaraz, a **Computer Science student at UET Lahore**.
 Feel free to check out my [LinkedIn profile](https://www.linkedin.com/in/abdulrehman-gulfaraz) for more about my projects and skills!
 
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).  
+You are free to use, modify, and distribute it with proper credit.
+
+
 ## Contribution
 Contributions are welcome!
 - Fork the repository.
